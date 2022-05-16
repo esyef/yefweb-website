@@ -1,0 +1,6 @@
+{
+  "extends": ["next/core-web-vitals", "@emotion", "prettier"],
+  "rules": {
+    "@emotion/jsx-import": "error"
+  }
+}
