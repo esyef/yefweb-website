@@ -20,8 +20,6 @@ export const PrimaryButton = styled(ButtonsStyle)`
   color: ${Theme.colors.secondary};
   border: 1px solid ${Theme.colors.secondary};
   transition: all 300ms ease-in-out;
-  position: relative;
-  z-index: 2;
 
   @media (min-width: 40rem) {
     &:hover {

@@ -2,7 +2,6 @@ import Image from 'next/image';
 import { ButtonsGroup } from 'src/pages/PagesComponents/Home/Hero/Hero.style';
 import { ButtonDefault, ButtonIcon } from '../Buttons';
 import { CtaStyle, CtaTxtStyle } from './CallToAction.style';
-import githubIcon from '/public/github.svg';
 import linkedinIcon from '/public/linkedin.svg';
 
 const CallToAction = () => {

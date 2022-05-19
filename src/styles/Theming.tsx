@@ -4,6 +4,7 @@ export type ThemeProps = {
     secondary: string;
     neutral: string;
     white: string;
+    error: string;
   };
   fontWeight: {
     Regular: number;
@@ -39,6 +40,7 @@ export const Theme: ThemeProps = {
     primary: '#13122E',
     white: '#F3ECFF',
     secondary: '#00C897',
+    error: '#FF6F91',
   },
   fontWeight: {
     Regular: 400,
